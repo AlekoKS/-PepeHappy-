@@ -1,0 +1,1256 @@
+.widget{
+/* share-widget */
+
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1392px;
+top: 252px;
+}
+
+.btnwid{
+    /* bg */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* darkYellowColor */
+
+background: #E8B81A;
+border-radius: 3px 0px 0px 3px;
+}
+
+.btnwidico{
+/* icon-share */
+width: 20px;
+height: 20px;
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+}
+
+header{
+/* header */
+
+
+position: absolute;
+width: 115px;
+height: 47px;
+left: 180px;
+top: 72px;
+}
+.logoheader{
+/* logo */
+
+
+position: absolute;
+width: 115px;
+height: 47px;
+}
+
+.hero {
+    /* Секция "Hero с якорем" */
+
+
+position: absolute;
+width: 1440px;
+height: 744px;
+left: 0px;
+top: 0px;
+
+/* superLightGreyColor */
+
+background: #F8F8F8;
+}
+
+.herocontent{
+/* hero */
+
+
+position: absolute;
+width: 1376px;
+height: 680px;
+left: 32px;
+
+}
+
+.mainpizza{
+/* image */
+
+
+position: absolute;
+width: 1376px;
+height: 680px;
+left: calc(50% - 1376px/2);
+top: 32px;
+
+border-radius: 24px;
+}
+
+.selslog{
+/* content */
+
+
+position: absolute;
+width: 531px;
+height: 310px;
+left: 180px;
+top: 217px;
+}
+
+.btnslog{
+/* Rectangle */
+
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* darkYellowColor */
+
+background: #E8B81A;
+border-radius: 26px;
+
+/* btn */
+
+
+position: absolute;
+width: 198px;
+height: 48px;
+left: 148px;
+top: 479px;
+
+/* paddingbtn */
+
+border-right-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+border-top-width: 0px;
+
+
+}
+
+.btntext{
+/* Получить скидку */
+
+
+position: absolute;
+left: 24px;
+right: 24px;
+top: 15px;
+bottom: 13px;
+
+/* Button */
+
+font-family: Gotham Pro;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* whiteColor */
+
+color: #FFFFFF;
+}
+
+.txtslog{
+/* text */
+
+
+position: absolute;
+width: 531px;
+height: 206px;
+left: 180px;
+top: 217px;
+}
+
+.slogtext1{
+/* Скидка 30%  на первый заказ */
+
+
+position: absolute;
+width: 531px;
+height: 118px;
+left: calc(50% - 531px/2 - 274.5px);
+top: 217px;
+
+/* Hero */
+
+font-family: Gotham Pro;
+font-weight: 700;
+font-size: 54px;
+line-height: 110%;
+/* or 59px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+}
+
+.slogtext2{
+/* Новым клиентам при заказе через сайт или мобильное приложение */
+
+
+position: absolute;
+width: 531px;
+height: 64px;
+left: calc(50% - 531px/2 - 274.5px);
+top: 359px;
+
+/* H2 */
+
+font-family: Gotham Pro;
+font-weight: 700;
+font-size: 24px;
+line-height: 133%;
+/* or 32px */
+
+
+/* superLightGreyColor */
+
+color: #F8F8F8;
+}
+
+.slog{
+/* Секция "Слоган" */
+
+
+position: absolute;
+width: 1440px;
+height: 471px;
+left: 0px;
+top: 744px;
+
+/* superLightGreyColor */
+
+background: #F8F8F8;
+}
+
+.topslog{
+/* Лучше ингредиенты. Лучше пицца. */
+
+
+position: absolute;
+width: 530px;
+height: 32px;
+left: calc(50% - 530px/2 - 273px);
+bottom: 407px;
+top: 32;
+
+/* H2 */
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 133%;
+/* identical to box height, or 32px */
+
+
+/* brownColor */
+
+color: #70544F;
+
+}
+
+.items{
+    /* items */
+
+
+position: absolute;
+width: 1080px;
+height: 343px;
+left: 180px;
+top: 128px;
+}
+
+.item1{
+    /* item (Соус) */
+
+
+position: absolute;
+width: 532px;
+height: 156px;
+left: 728px;
+top: 96px;
+}
+
+.item2{
+/* item (Ингредиенты) */
+
+
+position: absolute;
+width: 532px;
+height: 160px;
+left: 728px;
+top: 279px;
+}
+
+.item3{
+/* item (Сыр) */
+
+
+position: absolute;
+width: 532px;
+height: 156px;
+left: 180px;
+top: 96px;
+}
+
+.item4{
+/* item (Тесто) */
+
+
+position: absolute;
+width: 530px;
+height: 156px;
+left: 180px;
+top: 279px;
+}
+
+.itemtext1{
+    position: absolute;
+    width: 388px;
+    height: 92px;
+    left: 760px;
+    top: 128px;
+}
+
+.itemtext2{
+/* text */
+
+
+position: absolute;
+width: 396px;
+height: 92px;
+left: 752px;
+top: 303px;
+}
+
+.itemtext3{
+/* text */
+
+
+position: absolute;
+width: 388px;
+height: 92px;
+left: 212px;
+top: 128px;
+}
+
+.itemtext4{
+/* text */
+
+
+position: absolute;
+width: 386px;
+height: 92px;
+left: 212px;
+top: 311px;
+
+}
+
+.souses{
+/* souses */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 1174px;
+top: 112px;
+
+background: #FFFFFF;
+}
+
+.ingredients{
+/* ingredients */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 1174px;
+top: 295px;
+
+background: #FFFFFF;
+}
+
+.chesses{
+/* chesses */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 626px;
+top: 112px;
+
+background: #FFFFFF;
+}
+
+.dought{
+/* dought */
+
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 626px;
+top: 295px;
+
+background: #FFFFFF;
+}
+.box1{
+/* Rectangle */
+
+
+position: absolute;
+width: 532px;
+height: 156px;
+left: calc(50% - 532px/2 + 274px);
+bottom: 219px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.box2{
+/* Rectangle */
+
+
+position: absolute;
+width: 532px;
+height: 160px;
+left: calc(50% - 532px/2 + 274px);
+bottom: 32px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+
+.box3{
+/* Rectangle */
+
+
+position: absolute;
+width: 532px;
+height: 156px;
+left: calc(50% - 532px/2 - 274px);
+bottom: 219px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+
+.box4{
+/* Rectangle */
+
+
+position: absolute;
+width: 530px;
+height: 156px;
+left: calc(50% - 530px/2 - 275px);
+bottom: 36px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.btg1{
+/* Соус */
+
+
+position: absolute;
+width: 388px;
+height: 24px;
+left: calc(50% - 388px/2 + 234px);
+bottom: 319px;
+
+/* H3 */
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 133%;
+/* identical to box height, or 24px */
+
+
+/* brownColor */
+
+color: #70544F;
+
+}
+.btv1{
+/* Готовим из спелых томатов.  Время между сбором овощей и приготовлением соуса  не превышает 6 часов */
+
+
+position: absolute;
+width: 388px;
+height: 60px;
+left: calc(50% - 388px/2 + 234px);
+bottom: 251px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+
+
+/* brownColor */
+
+color: #70544F;
+
+}
+.btg2{
+/* Ингредиенты */
+
+
+position: absolute;
+width: 396px;
+height: 24px;
+left: calc(50% - 396px/2 + 230px);
+bottom: 144px;
+
+/* H3 */
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 133%;
+/* identical to box height, or 24px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+.btv2{
+/* Мы используем только свежие ингредиенты, это и делает нашу пиццу такой вкусной. Добавляйте/убирайте любые ингредиенты на свой вкус */
+
+
+position: absolute;
+width: 396px;
+height: 60px;
+left: calc(50% - 396px/2 + 230px);
+bottom: 76px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.btg3{
+/* Сыр */
+
+
+position: absolute;
+width: 361.93px;
+height: 24px;
+left: calc(50% - 361.93px/2 - 327.03px);
+bottom: 319px;
+
+/* H3 */
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 133%;
+/* identical to box height, or 24px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.btv3{
+/* Наш фирменный сыр – моцарелла отличного качества. Если хотите больше сыра, можете добавить опцию «сырный борт» */
+
+
+position: absolute;
+width: 388px;
+height: 60px;
+left: calc(50% - 388px/2 - 314px);
+bottom: 251px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.btg4{
+/* Тесто */
+
+
+position: absolute;
+width: 386px;
+height: 24px;
+left: calc(50% - 386px/2 - 315px);
+bottom: 144px;
+
+/* H3 */
+
+font-family: Gotham Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 133%;
+/* identical to box height, or 24px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.btv4{
+/* Правильное тесто – основа для лучшей пиццы.  Мы всегда используем только свежее тесто, которое никогда не замораживаем */
+
+
+position: absolute;
+width: 386px;
+height: 60px;
+left: calc(50% - 386px/2 - 315px);
+bottom: 76px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* or 20px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.Wform{
+    /* Секция "Регистрация" */
+
+
+position: absolute;
+width: 1440px;
+height: 674px;
+left: 0px;
+top: 1215px;
+
+/* superLightGreyColor */
+
+background: #F8F8F8;
+
+/* whiteColor */
+
+background: #FFFFFF;
+}
+
+.BYform{
+/* section (Регистрация) */
+
+
+position: absolute;
+width: 1440px;
+height: 642px;
+left: calc(50% - 1440px/2);
+bottom: -2px;
+
+/* whiteColor */
+
+background: #FFFFFF;    
+}
+.Yform{
+/* Rectangle */
+
+
+position: absolute;
+width: 532px;
+height: 520px;
+left: calc(50% - 532px/2 + 274px);
+top: 80px;
+
+/* yellowColor */
+
+background: #FBCD5A;
+border-radius: 24px;
+}
+
+.IYform{
+/* Rectangle */
+
+
+position: absolute;
+width: 532px;
+height: 520px;
+left: calc(50% - 532px/2 + 274px);
+top: 80px;
+
+/* yellowColor */
+
+background: #FBCD5A;
+border-radius: 24px;
+}
+
+.ibox1{
+/* input */
+
+
+position: absolute;
+width: 452px;
+height: 74px;
+left: calc(0% - 452px/2 + 274px);
+top: 36px;
+}
+
+.Tcheck1{
+/* Имя * */
+
+
+position: absolute;
+height: 20px;
+left: 0px;
+top: 0px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+}
+
+.checktext1{
+/* Ваше имя */
+
+
+position: absolute;
+height: 22px;
+left: 16px;
+right: 16px;
+top: 38px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+opacity: 0.7;
+}
+
+.check1{
+/* Rectangle */
+
+
+position: absolute;
+height: 49px;
+width: 100%;
+left: 0px;
+right: 0px;
+top: 25px;
+
+background: rgba(255, 255, 255, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.5);
+box-sizing: border-box;
+border-radius: 2px;
+}
+
+.ibox2{
+/* input[type="email"] */
+
+
+position: absolute;
+width: 452px;
+height: 74px;
+left: calc(0% - 452px/2 + 274px);
+top: 124px;
+}
+
+.Tcheck2{
+/* E-mail * */
+
+
+position: absolute;
+width: 49px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+
+}
+
+.checktext2{
+/* Ваш e-mail */
+
+
+position: absolute;
+height: 22px;
+left: 16px;
+right: 16px;
+top: 39px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+opacity: 0.7;
+}
+
+.check2{
+/* Rectangle */
+
+
+position: absolute;
+height: 49px;
+width: 100%;
+left: 0px;
+right: 0px;
+top: 25px;
+
+background: rgba(255, 255, 255, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.5);
+box-sizing: border-box;
+border-radius: 2px;
+}
+
+.ibox3{
+/* input[type="tel"] */
+
+
+position: absolute;
+width: 452px;
+height: 74px;
+left: calc(0% - 452px/2 + 274px);
+top: 212px;
+}
+
+.Tcheck3{
+/* Номер телефона * */
+
+
+position: absolute;
+width: 120px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+/* Body */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+/* identical to box height, or 20px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+}
+.checktext3{
+/* +7 (___) __-__-___ */
+
+
+position: absolute;
+height: 22px;
+left: 50px;
+right: -18px;
+top: 39px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+/* whiteColor */
+
+color: #FFFFFF;
+opacity: 0.7;
+}
+
+.check3{
+/* Rectangle */
+
+
+position: absolute;
+height: 49px;
+width: 100%;
+left: 0px;
+right: 0px;
+top: 25px;
+
+background: rgba(255, 255, 255, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.5);
+box-sizing: border-box;
+border-radius: 2px;
+}
+
+.poly{
+/* Polygon */
+
+
+position: absolute;
+width: 6px;
+height: 5px;
+left: -14px;
+top: 9px;
+
+
+
+}
+
+.flag{
+    /* flag */
+
+
+position: absolute;
+width: 16px;
+height: 11px;
+left: -40px;
+top: 5px;
+
+
+}
+
+.poltext1{
+/* * Поля обязательные для заполнения */
+
+
+position: absolute;
+width: 360px;
+height: 17px;
+left: calc(0% - 360px/2 + 232px);
+top: 381px;
+
+/* Caption */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+/* superLightGreyColor */
+
+color: #F8F8F8;
+}
+
+.poltext2{
+/* Нажимая «Зарегистрироваться», Вы даёте Согласие на обработку Ваших персональных данных, получение SMS и E-mail уведомлений с акциями и промокодами, и принимаете Пользовательское соглашение */
+
+
+position: absolute;
+width: 444px;
+height: 51px;
+left: calc(0% - 444px/2 + 274px);
+top: 400px;
+
+/* Caption */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 140%;
+/* or 17px */
+
+
+/* superLightGreyColor */
+
+color: #F8F8F8;    
+}
+
+ .btn{
+/* Rectangle */
+
+
+position: absolute;
+left: 48px;
+width: 145px;
+right: 0px;
+top: 300px;
+bottom: 170px;
+
+border-left-width: 0px;
+border-right-width: 0px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+/* greenColor */
+
+background: #009471;
+border-radius: 26px;
+ }
+
+ .gbtn{
+    /* Отправить */
+
+
+    position: absolute;
+    left: 24px;
+    right: 24px;
+    top: 15px;
+    bottom: 13px;
+    
+    /* Button */
+    
+    font-family: Gotham Pro;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    /* whiteColor */
+    
+    color: #FFFFFF;
+ }
+
+.regtext{
+/* Зарегистрируйтесь, чтобы получить промокод на скидку 30% */
+
+
+position: absolute;
+width: 420px;
+height: 120px;
+left: calc(50% - 420px/2 - 330px);
+top: 117px;
+
+/* Hero Small */
+
+font-family: Gotham Pro;
+font-size: 30px;
+font-weight: 600;
+line-height: 133%;
+/* or 40px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.minregtext{
+/* Акция действует для новых клиентов  при отсутствии действующей регистрации на сайте */
+
+
+position: absolute;
+width: 395px;
+height: 44px;
+left: calc(50% - 395px/2 - 342.5px);
+top: 262px;
+
+/* Body Big */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+/* lightBrownColor */
+
+color: #A69895;
+}
+
+.bg{
+/* bg */
+
+
+position: absolute;
+width: 1440px;
+height: 642px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+}
+footer{
+/* footer */
+
+position: absolute;
+width: 1440px;
+top: 1855px;
+height: 82px;
+bottom: 0px;
+background: #F8F8F8;
+}
+
+.copyright{
+/* Акция действует во всех ресторанах сети с 01.03.2019 по 31.09.2019 (включительно). © Copyright 2004 — 2019 ООО «4ПАПАС» Все права защищены. Возраст 6+ */
+
+
+position: absolute;
+left: 12.5%;
+right: 50.56%;
+top: 29.27%;
+bottom: 29.27%;
+
+/* Caption */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 140%;
+/* or 17px */
+
+
+/* lightBrownColor */
+
+color: #A69895;
+
+
+}
+
+.polytic{
+/* Политика обработки персональных данных */
+
+
+position: absolute;
+left: 56.32%;
+right: 26.32%;
+top: 29.27%;
+bottom: 50%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.allergy{
+/* Аллергены */
+
+
+position: absolute;
+left: 75.35%;
+right: 20.21%;
+top: 29.27%;
+bottom: 50%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
+
+.rules{
+/* Правила акции */
+
+
+position: absolute;
+left: 81.46%;
+right: 12.5%;
+top: 29.27%;
+bottom: 50%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 140%;
+/* identical to box height, or 17px */
+
+
+/* brownColor */
+
+color: #70544F;
+}
